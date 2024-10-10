@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"unam.poo.modelo","l":"Biblioteca"},{"p":"unam.poo.modelo","l":"EstadoLibro"},{"p":"unam.poo.modelo","l":"Libro"},{"p":"unam.poo","l":"Main"},{"p":"unam.poo.modelo","l":"Prestamo"},{"p":"unam.poo.modelo","l":"Usuario"}];updateSearchResults();

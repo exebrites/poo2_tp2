@@ -1,0 +1,49 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-private
+-source
+'17'
+-sourcepath
+'/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'biblioteca 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'biblioteca 1.0-SNAPSHOT API'
+unam.poo.modelo
+unam.poo
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/src/main/java = 1728080255520
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/overview-summary.html = 1728506961906
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/tag-search-index.js = 1728506961890
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/allclasses-index.html = 1728506961882
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/search.js = 1728506961914
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/module-search-index.js = 1728506961882
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/copy.svg = 1728506961914
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/help-doc.html = 1728506961910
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/package-search-index.js = 1728506961882
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/search-page.js = 1728506961914
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/allpackages-index.html = 1728506961882
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/stylesheet.css = 1728506961910
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/index-all.html = 1728506961902
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/member-search-index.js = 1728506961890
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/index.html = 1728506961870
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/script.js = 1728506961910
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/link.svg = 1728506961914
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/element-list = 1728506961814
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/search.html = 1728506961902
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/overview-tree.html = 1728506961866
+/home/camilaailen/Documents/FACULTAD/POO2/poo2_tp2/SistemaBiblioteca/biblioteca/target/reports/apidocs/type-search-index.js = 1728506961890
