@@ -25,6 +25,7 @@ classDiagram
         - librosPrestados: List~Libro~
         + prestarLibro(libro: Libro)
         + devolverLibro(libro: Libro)
+        + getLibrosPrestados()
     }
 
     class Prestamo {
